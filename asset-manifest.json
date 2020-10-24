@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/collegeduniya/static/css/main.d6452967.chunk.css",
+    "main.js": "/collegeduniya/static/js/main.5a9aa6d3.chunk.js",
+    "main.js.map": "/collegeduniya/static/js/main.5a9aa6d3.chunk.js.map",
+    "runtime-main.js": "/collegeduniya/static/js/runtime-main.5f8c92dd.js",
+    "runtime-main.js.map": "/collegeduniya/static/js/runtime-main.5f8c92dd.js.map",
+    "static/js/2.aaff7b46.chunk.js": "/collegeduniya/static/js/2.aaff7b46.chunk.js",
+    "static/js/2.aaff7b46.chunk.js.map": "/collegeduniya/static/js/2.aaff7b46.chunk.js.map",
+    "static/js/3.be99ca6b.chunk.js": "/collegeduniya/static/js/3.be99ca6b.chunk.js",
+    "static/js/3.be99ca6b.chunk.js.map": "/collegeduniya/static/js/3.be99ca6b.chunk.js.map",
+    "index.html": "/collegeduniya/index.html",
+    "static/css/main.d6452967.chunk.css.map": "/collegeduniya/static/css/main.d6452967.chunk.css.map",
+    "static/js/2.aaff7b46.chunk.js.LICENSE.txt": "/collegeduniya/static/js/2.aaff7b46.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/collegeduniya/static/media/college.cfdc9984.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f8c92dd.js",
+    "static/js/2.aaff7b46.chunk.js",
+    "static/css/main.d6452967.chunk.css",
+    "static/js/main.5a9aa6d3.chunk.js"
+  ]
+}
